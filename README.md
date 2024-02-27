@@ -1,1 +1,1 @@
-** This Repository contains mini tailwind css project**
+This Repository contains mini tailwind css project
